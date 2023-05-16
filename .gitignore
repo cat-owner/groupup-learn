@@ -1,0 +1,5 @@
+.idea/*
+*.md
+*.iml
+*.workspace.xml
+*.target/*
