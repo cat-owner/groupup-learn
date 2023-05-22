@@ -16,6 +16,8 @@
 
 3.[花5分钟让你明白什么啥是DNS](https://mp.weixin.qq.com/s?__biz=MzU3NDQ0ODEzNQ==&mid=2247484880&idx=1&sn=b88fbf3d5f0a2747ea1e1fc6825d1738&chksm=fd3372b8ca44fbae21c399254828a5a5c2dc086ae083fd0b1892b6c98018df1cec6d9f9c0832#rd)
 
+4.[花5分钟了解一下什么是有状态服务以及无状态服务](https://mp.weixin.qq.com/s?__biz=MzU3NDQ0ODEzNQ==&mid=2247484896&idx=1&sn=ece9ce13bc149fa3b0be1dbdebd5dcca&chksm=fd337288ca44fb9e0c7e3643007a4268b44f95c3815657ec34944dfeb43b7f39f3c965994f12#rd)
+
 
 
 ## 扫描下面二维码关注公众号一起学习，一起成长
